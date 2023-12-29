@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unity,Maya,Houdini**
 
-- 👀 I’m interested in **Creative coding, Game Development and XR...**
+- 👀 I’m interested in **Tech Art, Game Dev and Creative Coding**
 
 - 📫 How to reach me **chandikaprabhashwara@outlook.com**
 
