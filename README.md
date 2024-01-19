@@ -2,7 +2,7 @@
 <h3 align="center">A Interactive Multimedia Enthusiast based in Sri Lanka</h3>
 <br>
 
-- 🔭 I’m currently an **Multimedia Undergraduate**
+- 🔭 I’m currently an **Multimedia Undergraduate** & a **Trainee Technical Artist**
 
 - 🌱 I’m currently learning **Unity,Maya,Houdini**
 
